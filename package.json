@@ -1,0 +1,22 @@
+{
+  "name": "is-chiragsoni",
+  "version": "1.0.0",
+  "description": "Testing package for testing packaing behaviours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragsoni-employ/is-chirag-soni.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Chirag Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragsoni-employ/is-true/issues"
+  },
+  "homepage": "https://github.com/chiragsoni-employ/is-true#readme"
+}
